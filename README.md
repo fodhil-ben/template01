@@ -1,6 +1,7 @@
 # template01
 
-##welcome to  my first project
+## welcome to  my first project
+
 it is a template of a web page 
 i used only html and css 
 and a i used a library called font awesome to get icons
